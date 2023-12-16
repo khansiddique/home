@@ -55,7 +55,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Professional certifications
+## Professional certifications and Training Completions
 - Certified Ethical Hacker (CEH) Master: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
