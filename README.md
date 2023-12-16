@@ -57,10 +57,10 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Professional Certifications
 
-- Certified Ethical Hacker (**CEH**) Master | The **CEH Master** is a combination of the **CEH Exam** (2017) and the **CEH Practical** (2023)
-- CompTIA Security Analytics Professional (**CSAP**) | The **CSAP** is a combination of the **CompTIA Cybersecurity Analyst(CySa+)** (2023) and the **CompTIA Security+** (2022)
-- (ISC)² CC | Certified in Cybersecurity (**CC**) (2023) 
-- ISTQB Certified Tester (2022) | Foundation Level from GASQ (German Testing Board)
+- Certified Ethical Hacker (**CEH**) Master - **CEH Practical** and **CEH Exam**   | 2017 and 2023
+- CompTIA Security Analytics Professional (**CSAP**) - **CompTIA Cybersecurity Analyst(CySa+)**  and **CompTIA Security+** | 2023 and 2022 
+- (ISC)² Certified in Cybersecurity (**CC**) | 2023 
+- ISTQB Certified Tester Foundation Level - from GASQ (German Testing Board) | (2022)
 - **ISO 27001** Lead Auditor (2016) | From PECB Certificate No. ISLA1014881-2023-02
 
 
@@ -74,13 +74,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - AWS **Machine Learning** Foundations - From Udacity (2022) 
 - Introduction to **Malware Analysis** for **Incident Responders** - From StationX (2021)
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
