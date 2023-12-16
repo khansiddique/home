@@ -67,8 +67,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ## Professional certifications
 - EC-Council : Certified Ethical Hacker (CEH) | Master - The **CEH Master** is a combination of the **CEH Exam** and the **CEH Practical**
 - CompTIA : CompTIA Security Analytics Professional (CSAP) - The **CSAP** is a combination of the **Cybersecurity Analyst(CySa+)** and the **Security+**
-- (ISC)² : Certified in Cybersecurity (CC)
-- PECB : ISO/IEC 27001 Lead Auditor (ISLA1014881-2023-02)
+- (ISC)² : Certified in Cybersecurity (**CC**)
+- PECB : **ISO 27001** Lead Auditor (ISLA1014881-2023-02)
 - GASQ (German Testing Board): ISTQB Certified Tester - Foundation Level
 
 - [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
