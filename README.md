@@ -20,8 +20,8 @@ Cyber Security | Vulnerability Assessment| Incident Response | Risk Analysis | S
 - Developed signal analyzer for ROP attack
 - Conducted side-channel attacks to extract encryption keys
 
-> [!NOTE]
-> Skills: • Signal Analysis • Cryptography • Assembly Language • IoT • SoC • MSP430
+> Skills:
+> • Signal Analysis • Cryptography • Assembly Language • IoT • SoC • MSP430
 • Zero-day vulnerabilities • Reverse engineering • Python • C/C++
 
 ## Projects
