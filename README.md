@@ -56,6 +56,12 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/17bdbbc66c5924d99823be70e98832ed.png)
 
 ## Professional Certifications
+| Certification Body | Certification Hold                                      | 
+| ------------------ |:--------------------------------------------------------|
+| EC-Council         |- Certified Ethical Hacker (CEH) Master (2023)           | 
+|                    |- CEH  multiple-choice Exam (2017)  + CEH Practical Exam | 
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 - EC-Council : Certified Ethical Hacker (CEH) | Master - The **CEH Master** is a combination of the **CEH Exam** and the **CEH Practical**
 - CompTIA : CompTIA Security Analytics Professional (**CSAP**) - The **CSAP** is a combination of the **Cybersecurity Analyst(CySa+)** and the **Security+**
 - (ISC)² : Certified in Cybersecurity (**CC**)
