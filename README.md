@@ -5,7 +5,7 @@ Cyber Security • Vulnerability Assessment • Incident Response • Risk Analy
 
 ## Education
 - M.Sc., Cyber Security                   | BTU Cottbus-Senftenberg, Germany (_September 2021_)								       		
-- B.Sc., Computer Science and Engineering	| MIST, Dhaka University, Bangladesh (_December 2005_)	 			        		
+- B.Sc., Computer Science and Engineering	|  MIST, Dhaka University, Bangladesh (_December 2005_)	 			        		
 
 
 ## Work Experience
@@ -57,9 +57,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Professional Certifications
 
-- Certified Ethical Hacker (CEH) Master |  The **CEH Master** is a combination of the **CEH Exam** (2017) and the **CEH Practical** (2023)
+- Certified Ethical Hacker (CEH) Master | The **CEH Master** is a combination of the **CEH Exam** (2017) and the **CEH Practical** (2023)
 - CompTIA Security Analytics Professional (**CSAP**) | The **CSAP** is a combination of the **CompTIA Cybersecurity Analyst(CySa+)** (2023) and the **CompTIA Security+** (2022)
-- Certified in Cybersecurity (**CC**) (2023) From (ISC)² 
+- Certified in Cybersecurity (**CC**) (2023) | From (ISC)² 
 - ISTQB Certified Tester (2022) | Foundation Level from GASQ (German Testing Board)
 - **ISO 27001** Lead Auditor (2016) | From PECB Certificate No. ISLA1014881-2023-02
 
