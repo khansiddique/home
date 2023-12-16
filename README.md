@@ -1,7 +1,7 @@
 # Cybersecurity Engineer
 
 #### Technical Skills: 
-Cyber Security | Vulnerability | Incident Response | Risk Analysis | Security Information And Event Management (SIEM) | Public Cloud Security (AWS, Azure) | Comprehensive Software Security | Threat Hunting | Python
+Cyber Security | Vulnerability Assessment| Incident Response | Risk Analysis | Security Information And Event Management (SIEM) | Public Cloud Security (AWS, Azure) | Comprehensive Software Security | Threat Hunting | Python
 
 ## Education
 - Master’s Degree, Cyber Security | BTU Cottbus-Senftenberg, Germany (_September 2021_)								       		
@@ -16,9 +16,13 @@ Cyber Security | Vulnerability | Incident Response | Risk Analysis | Security In
 - Used Jenkins for ALM tool codeBeamer integration
 - Assessed information security risks using ISO 27001
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Cyber Security Analyst (Student Job) @ IHP Solutions GmbH, Frankfurt (Oder) (_January 2019 - September 2019_)**
+- Developed signal analyzer for ROP attack
+- Conducted side-channel attacks to extract encryption keys
+
+> [!NOTE]
+> Skills: • Signal Analysis • Cryptography • Assembly Language • IoT • SoC • MSP430
+• Zero-day vulnerabilities • Reverse engineering • Python • C/C++
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
