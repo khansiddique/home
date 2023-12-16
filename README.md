@@ -68,16 +68,13 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Additional Trainings
 - Certified Cloud Security Professional (**CCSP**) - From StationX (2023) 
+- ISO 21434 Automotive Cybersecurity Standards - From Udemy (2023) 
 - Quick Guide to AppSec and the OWASP Top 10 From StationX (2023)
 - AWS Certified Cloud Practitioner - From StationX (2022)
 - AWS Machine Learning Foundations - From Udacity (2022) 
 - Introduction to Malware Analysis for Incident Responders - From StationX (2021)
-- 
-- - From StationX (2022)
-- CompTIA : CompTIA Security Analytics Professional (**CSAP**) - The **CSAP** is a combination of the **Cybersecurity Analyst(CySa+)** and the **Security+**
-- (ISC)² : Certified in Cybersecurity (**CC**)
-- PECB : **ISO 27001** Lead Auditor (ISLA1014881-2023-02)
-- GASQ (German Testing Board): ISTQB Certified Tester - Foundation Level
+ 
+
 
 - [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
 
