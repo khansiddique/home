@@ -33,6 +33,13 @@ Cyber Security • Vulnerability Assessment • Incident Response • Risk Analy
 > ⚡ Skills:
 > • SOC and SIEM (Network monitoring, Security Onion, ELK) • Threat hunting • Packet analysis (Wireshark) • GRC • HackRF and GNU radio • Tenable Nessus • Nmap • Metasploit • Operating systems (Linux) • BRO/Zeek IDS IPS • Virtual Machine, Routing & Switching • Firewall (pfsense)
 
+**IT Security Audit and Compliance Officer @ SBAC Bank Ltd and Southeast Bank Ltd, Dhaka, Bangladesh (_December 2013 - October 2017_)**
+- Designed network traffic analysis concept and integrated alerts into SIEM solution
+- Conducted threat hunting, analyzed threats, performed digital forensics, and conducted malware analysis to fortify the security framework (Lab)
+
+> ⚡ Skills:
+> • GRC ( Governance, Risk, and Compliance ) • Risk Management Framework • Risk mitigation • Security regulations • security controls effectiveness • Decision-making • Incident Management • ISO2700x (ISMS) • NIST SP800-53 • Disaster recovery assistance
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
