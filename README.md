@@ -4,8 +4,8 @@
 Cyber Security • Vulnerability Assessment • Incident Response • Risk Analysis • Security Information And Event Management (SIEM) • Public Cloud Security (AWS, Azure) • Comprehensive Software Security • Threat Hunting • Python
 
 ## Education
-- M.Sc., Cyber Security                   | BTU Cottbus-Senftenberg, Germany (_September 2021_)								       		
-- B.Sc., Computer Science and Engineering	|  MIST, Dhaka University, Bangladesh (_December 2005_)	 			        		
+- M.Sc., Cyber Security, BTU Cottbus-Senftenberg, Germany | _September 2021_								       		
+- B.Sc., Computer Science and Engineering, MIST, Dhaka University, Bangladesh | _December 2005_	 			        		
 
 
 ## Work Experience
@@ -57,7 +57,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Professional Certifications
 
-- Certified Ethical Hacker (CEH) Master | The **CEH Master** is a combination of the **CEH Exam** (2017) and the **CEH Practical** (2023)
+- Certified Ethical Hacker (**CEH**) Master | The **CEH Master** is a combination of the **CEH Exam** (2017) and the **CEH Practical** (2023)
 - CompTIA Security Analytics Professional (**CSAP**) | The **CSAP** is a combination of the **CompTIA Cybersecurity Analyst(CySa+)** (2023) and the **CompTIA Security+** (2022)
 - Certified in Cybersecurity (**CC**) (2023) | From (ISC)² 
 - ISTQB Certified Tester (2022) | Foundation Level from GASQ (German Testing Board)
@@ -73,10 +73,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - **AWS** Certified Cloud Practitioner - From StationX (2022)
 - AWS **Machine Learning** Foundations - From Udacity (2022) 
 - Introduction to **Malware Analysis** for **Incident Responders** - From StationX (2021)
- 
-
-
-- [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
