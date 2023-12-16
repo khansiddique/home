@@ -1,7 +1,7 @@
 # Cybersecurity Engineer
 
 #### Technical Skills: 
-Cyber Security | Vulnerability Assessment| Incident Response | Risk Analysis | Security Information And Event Management (SIEM) | Public Cloud Security (AWS, Azure) | Comprehensive Software Security | Threat Hunting | Python
+Cyber Security • Vulnerability Assessment • Incident Response • Risk Analysis • Security Information And Event Management (SIEM) • Public Cloud Security (AWS, Azure) • Comprehensive Software Security • Threat Hunting • Python
 
 ## Education
 - Master’s Degree, Cyber Security | BTU Cottbus-Senftenberg, Germany (_September 2021_)								       		
@@ -16,21 +16,21 @@ Cyber Security | Vulnerability Assessment| Incident Response | Risk Analysis | S
 - Used Jenkins for ALM tool codeBeamer integration
 - Assessed information security risks using ISO 27001
   
-> Skills:
+> ⚡ Skills:
 > • Penetration tests (Lab) • ISO 27001 • Risk and security Assessment • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • Cloud Security • DevOps • Jenkins • Python • Bash (Lab) • IT architectures & applications • MITER ATT&CK (Lab)
 
 **Cyber Security Analyst (Student Job) @ IHP Solutions GmbH, Frankfurt (Oder) (_January 2019 - September 2019_)**
 - Developed signal analyzer for ROP attack
 - Conducted side-channel attacks to extract encryption keys
 
-> Skills:
+> ⚡ Skills:
 > • Signal Analysis • Cryptography • Assembly Language • IoT • SoC • MSP430 • Zero-day vulnerabilities • Reverse engineering • Python • C/C++
 
 **Cyber Security Analyst (Student Job) @ Philotech System Development GmbH, Cottbus (_February 2019 - January 2020_)**
 - Designed network traffic analysis concept and integrated alerts into SIEM solution
 - Conducted threat hunting, analyzed threats, performed digital forensics, and conducted malware analysis to fortify the security framework (Lab)
 
-> Skills:
+> ⚡ Skills:
 > • SOC and SIEM (Network monitoring, Security Onion, ELK) • Threat hunting • Packet analysis (Wireshark) • GRC • HackRF and GNU radio • Tenable Nessus • Nmap • Metasploit • Operating systems (Linux) • BRO/Zeek IDS IPS • Virtual Machine, Routing & Switching • Firewall (pfsense)
 
 ## Projects
