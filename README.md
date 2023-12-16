@@ -58,7 +58,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ## Professional certifications
 - EC-Council : Certified Ethical Hacker (CEH) | Master - The **CEH Master** is a combination of the **CEH Exam** and the **CEH Practical**
 - CompTIA : CompTIA Security Analytics Professional (CSAP) - The **CSAP** is a combination of the **Cybersecurity Analyst(CySa+)** and the **Security+**
-- ISC[^2]: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- (ISC)²: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
 - A Brief Introduction to Optimization - GSP Seminar, Fall 2019
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
