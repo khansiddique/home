@@ -56,7 +56,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/17bdbbc66c5924d99823be70e98832ed.png)
 
 ## Professional certifications
-- Certified Ethical Hacker (CEH) | Master: The ![CEH Master](/Professional certifications/ECC-CEHMaster-Certificate.pdf) ![CEH Master](Professional certifications/ECC-CEHMaster-Certificate.pdf) is a combination of the ![CEH Exam](Professional certifications/ECC-CEH-Certificate (1).pdf) and the ![CEH Practical](Professional certifications/ECC-CEHPractical-Certificate (1).pdf)
+- Certified Ethical Hacker (CEH) | Master: The ![CEH Master](/assets/img/17bdbbc66c5924d99823be70e98832ed.png) ![CEH Master](Professional certifications/ECC-CEHMaster-Certificate.pdf) is a combination of the ![CEH Exam](Professional certifications/ECC-CEH-Certificate (1).pdf) and the ![CEH Practical](Professional certifications/ECC-CEHPractical-Certificate (1).pdf)
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
 - A Brief Introduction to Optimization - GSP Seminar, Fall 2019
