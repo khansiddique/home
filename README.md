@@ -53,7 +53,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/17bdbbc66c5924d99823be70e98832ed.png)
 
 ## Professional certifications
 - Certified Ethical Hacker (CEH) | Master: The ![CEH Master](/Professional certifications/ECC-CEHMaster-Certificate.pdf) ![CEH Master](Professional certifications/ECC-CEHMaster-Certificate.pdf) is a combination of the ![CEH Exam](Professional certifications/ECC-CEH-Certificate (1).pdf) and the ![CEH Practical](Professional certifications/ECC-CEHPractical-Certificate (1).pdf)
