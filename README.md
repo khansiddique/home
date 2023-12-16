@@ -1,6 +1,6 @@
 # Cyber Security Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Cyber Security, Vulnerability, Computer Science, Auditing, Incident Response, Risk Analysis, Information Systems, Security Controls, Security Information And Event Management (SIEM), Public Cloud Security (AWS, Azure), Comprehensive Software Security, Threat Hunting, Threat Intelligence & Response, Python, SQL
 
 ## Education
 - Master’s Degree, Cyber Security | BTU Cottbus-Senftenberg, Germany (_September 2021_)								       		
