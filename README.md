@@ -4,8 +4,8 @@
 Cyber Security • Vulnerability Assessment • Incident Response • Risk Analysis • Security Information And Event Management (SIEM) • Public Cloud Security (AWS, Azure) • Comprehensive Software Security • Threat Hunting • Python
 
 ## Education
-- Master’s Degree, Cyber Security | BTU Cottbus-Senftenberg, Germany (_September 2021_)								       		
-- Bachelor’s Degree, Computer Science and Engineering	| MIST, Dhaka University, Bangladesh (_December 2005_)	 			        		
+- M.Sc., Cyber Security                   | BTU Cottbus-Senftenberg, Germany (_September 2021_)								       		
+- B.Sc., Computer Science and Engineering	| MIST, Dhaka University, Bangladesh (_December 2005_)	 			        		
 
 
 ## Work Experience
