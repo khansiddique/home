@@ -1,9 +1,7 @@
 # Cyber Security Engineer
 
 #### Technical Skills: 
-1. Cyber Security,
-2. Vulnerability,
-3. Incident Response, Risk Analysis,
+Cyber Security | Vulnerability | Incident Response, Risk Analysis
 4. Security Information And Event Management (SIEM),
 5. Public Cloud Security (AWS, Azure),
 6. Comprehensive Software Security,
