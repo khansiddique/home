@@ -3,4 +3,13 @@ logo: /assets/img/SiddiqueKhan.jpg
 # Give here a description for Labguage Skill
 description: 'Language skills - 💡 English : Very good knowledge (B2 - Fluent English) and 🚀 German : Intermediate Knowledge (currently pursuing B1)'
 show_downloads: false
+social-network-links:
+  email: "siddiquerezakhan@gmail.com"
+  # github: daattali
+  twitter: khaninfosec
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  linkedin: siddique-reza-khan
+share-links-active:
+  linkedin: true
 theme: jekyll-theme-minimal
