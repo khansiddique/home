@@ -1,10 +1,10 @@
 # Cybersecurity Engineer
 
 #### Technical Skills: 
-- Cyber Security : • Network Security • Comprehensive Software Security • Risk Analysis |
-- Security Operations Center (SOC) : • Vulnerability Assessment • Incident Response  • Security Information And Event Management (SIEM) • Threat Hunting |
-- Cloud : Public Cloud Security (AWS, Azure) |
-- Programming Languages: Python
+- 📌 **Cyber Security:** • Network Security • Comprehensive Software Security • Risk Analysis |
+- 📌 **Security Operations Center (SOC):** • Vulnerability Assessment • Incident Response  • Security Information And Event Management (SIEM) • Threat Hunting |
+- 📌 **Cloud:** Public Cloud Security (AWS, Azure) |
+- 📌 **Programming Languages:** Python
 
 
 
@@ -107,5 +107,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 - 🏆 [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
-- 💎 [Cyber Security Blog](https://medium.com/@weexplore2learn)
+- 📕 [Cyber Security Blog](https://medium.com/@weexplore2learn)
 
