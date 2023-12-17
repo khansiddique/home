@@ -6,12 +6,16 @@
 - Public Cloud Security (AWS, Azure) |
 - Python
 
+
+
 ## Education
 - _September 2021_	| M.Sc., Cyber Security, BTU Cottbus-Senftenberg, Germany 						       		
 - _December 2005_ | B.Sc., Computer Science and Engineering, MIST, Dhaka University, Bangladesh	 			        		
 
 
+
 ## Work Experience
+
 _August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, Berlin**
 - Conducted penetration testing to identify vulnerabilities
 - Conducted security testing on database and API
@@ -19,22 +23,28 @@ _August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, B
 - Used Jenkins for ALM tool codeBeamer integration
 - Assessed information security risks using ISO 27001
   
-> ⚡ Skills:
+> ⚡ **Skills:**
 > • Penetration tests (Lab) • ISO 27001 • Risk and security Assessment • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • Cloud Security • DevOps • Jenkins • Python • Bash (Lab) • IT architectures & applications • MITER ATT&CK (Lab)
+
+
 
  _January 2019 - September 2020_ |**Cyber Security Analyst (Student Job) @ IHP Solutions GmbH, Frankfurt (Oder)**
 - Developed signal analyzer for ROP attack
 - Conducted side-channel attacks to extract encryption keys
 
-> ⚡ Skills:
+> ⚡ **Skills:**
 > • Signal Analysis • Cryptography • Assembly Language • IoT • SoC • MSP430 • Zero-day vulnerabilities • Reverse engineering • Python • C/C++
+
+
 
 _February 2019 - January 2020_ | **Cyber Security Analyst (Student Job) @ Philotech System Development GmbH, Cottbus**
 - Designed network traffic analysis concept and integrated alerts into SIEM solution
 - Conducted threat hunting, analyzed threats, performed digital forensics, and conducted malware analysis to fortify the security framework (Lab)
 
-> ⚡ Skills:
+> ⚡ **Skills:**
 > • SOC and SIEM (Network monitoring, Security Onion, ELK) • Threat hunting • Packet analysis (Wireshark) • GRC • HackRF and GNU radio • Tenable Nessus • Nmap • Metasploit • Operating systems (Linux) • BRO/Zeek IDS IPS • Virtual Machine, Routing & Switching • Firewall (pfsense)
+
+
 
 _December 2013 - October 2017_ | **IT Security Audit and Compliance Officer @ SBAC Bank Ltd and Southeast Bank Ltd, Dhaka, Bangladesh**
 - Assisted in developing and executing governance strategies for compliance
@@ -43,8 +53,10 @@ _December 2013 - October 2017_ | **IT Security Audit and Compliance Officer @ SB
 - Contributed to GRC initiative execution
 - Developed early-stage expertise in cyber security, monitoring, incident management, and/or incident response, enhancing overall security measures
 
-> ⚡ Skills:
+> ⚡ **Skills:**
 > • GRC ( Governance, Risk, and Compliance ) • Risk Management Framework • Risk mitigation • Security regulations • security controls effectiveness • Decision-making • Incident Management • ISO2700x (ISMS) • NIST SP800-53 • Disaster recovery assistance
+
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -61,6 +73,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/17bdbbc66c5924d99823be70e98832ed.png)
 
+
+
 ## Professional Certifications
 
 - _October 2023_ | CompTIA **Cybersecurity Analyst(CySa+)** -  Certification level CompTIA Security Analytics Professional (**CSAP**) 
@@ -72,7 +86,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - _Sepember 2016_ | **ISO 27001** Lead Auditor - From PECB Certificate No. ISLA1014881-2023-02 
 
 
-- [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
 
 ## Additional Trainings
 - Certified Cloud Security Professional (**CCSP**) - From StationX (2023) 
@@ -95,5 +108,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
+- [Cyber Security Blog](https://medium.com/@weexplore2learn)
 
