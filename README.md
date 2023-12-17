@@ -60,12 +60,13 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Professional Certifications
 
-- _October 2023_ | **CompTIA Cybersecurity Analyst(CySa+)** - CompTIA Security Analytics Professional (**CSAP**) 
-- _March 2023_ | Certified Ethical Hacker **(CEH) Practical** - Certified Ethical Hacker (**C|EH**) Master -  (2023) and **CEH Exam** (2017)   |  
--   and **CompTIA Security+** (2022) |   
-- _March 2023_ | Certified in Cybersecurity (**CC**) (2023) - From (ISC)² |  
-- ISTQB Certified Tester Foundation Level (2022) - From GASQ (German Testing Board) | 
-- **ISO 27001** Lead Auditor (2016) - From PECB Certificate No. ISLA1014881-2023-02 |
+- _October 2023_ | CompTIA **Cybersecurity Analyst(CySa+)** - CompTIA Security Analytics Professional (**CSAP**) 
+- _March 2023_ | Certified Ethical Hacker **(CEH) Practical** - Certification level **CEH Master**   
+- _March 2023_ | Certified in Cybersecurity (**CC**) - From (ISC)² 
+-  _December 2022_ | CompTIA **Security+**  
+- _February 2022_ | ISTQB Certified Tester Foundation Level - From GASQ (German Testing Board) 
+- _October 2017_ | Certified Ethical Hacker **(CEH)** (multiple-choice exam)    
+- _Sepember 2016_ | **ISO 27001** Lead Auditor - From PECB Certificate No. ISLA1014881-2023-02 
 
 
 - [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
