@@ -12,7 +12,7 @@
 
 
 ## Work Experience
-**Cybersecurity Specialist @ ITPower Solutions GmbH, Berlin (_August 2020 - Present_)**
+_August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, Berlin (_August 2020 - Present_)**
 - Conducted penetration testing to identify vulnerabilities
 - Conducted security testing on database and API
 - Deployed secure Azure cloud solution for Machine Learning
