@@ -2,9 +2,9 @@
 
 #### Technical Skills: 
 - 📌 **Cyber Security:** • Network Security • Comprehensive Software Security • Risk Analysis |
-- 📌 **Security Operations Center (SOC):** • Vulnerability Assessment • Incident Response  • Security Information And Event Management (SIEM) • Threat Hunting |
-- 📌 **Cloud:** Public Cloud Security (AWS, Azure) |
-- 📌 **Programming Languages:** Python
+- 🔭 **Security Operations Center (SOC):** • Vulnerability Assessment • Incident Response  • Security Information And Event Management (SIEM) • Threat Hunting |
+- ☁️ **Cloud:** Public Cloud Security (AWS, Azure) |
+- 💊 **Programming Languages:** Python |
 
 
 
