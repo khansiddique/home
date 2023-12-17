@@ -106,6 +106,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 4. Khan, Sadeque Reza, Siddique Reza Khan, and Arifa Ferdousi. "Voltage Temperature Monitoring System (VTMS) for a BTS Room." arXiv preprint arXiv:1212.4913 (2012). [View Details](https://arxiv.org/abs/1212.4913)
 
 
-- [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
-- [Cyber Security Blog](https://medium.com/@weexplore2learn)
+- 📺 [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
+- ✒ [Cyber Security Blog](https://medium.com/@weexplore2learn)
 
