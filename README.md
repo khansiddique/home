@@ -4,7 +4,7 @@
 - 📌 **Cyber Security:** • Network Security • Comprehensive Software Security • Risk Analysis |
 - 🔭 **Security Operations Center (SOC):** • Vulnerability Assessment • Incident Response  • Security Information And Event Management (SIEM) • Threat Hunting |
 - ☁️ **Cloud:** Public Cloud Security (AWS, Azure) |
-- 💊 **Programming Languages:** Python |
+- 🖥️ **Programming Languages:** Python |
 
 
 
@@ -32,7 +32,7 @@ _August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, B
 - Developed signal analyzer for ROP attack
 - Conducted side-channel attacks to extract encryption keys
 
-> ⚡ **Skills:**
+> 🔑 **Skills:**
 > • Signal Analysis • Cryptography • Assembly Language • IoT • SoC • MSP430 • Zero-day vulnerabilities • Reverse engineering • Python • C/C++
 
 
@@ -41,7 +41,7 @@ _February 2019 - January 2020_ | **Cyber Security Analyst (Student Job) @ Philot
 - Designed network traffic analysis concept and integrated alerts into SIEM solution
 - Conducted threat hunting, analyzed threats, performed digital forensics, and conducted malware analysis to fortify the security framework (Lab)
 
-> ⚡ **Skills:**
+> 🚀 **Skills:**
 > • SOC and SIEM (Network monitoring, Security Onion, ELK) • Threat hunting • Packet analysis (Wireshark) • GRC • HackRF and GNU radio • Tenable Nessus • Nmap • Metasploit • Operating systems (Linux) • BRO/Zeek IDS IPS • Virtual Machine, Routing & Switching • Firewall (pfsense)
 
 
@@ -53,7 +53,7 @@ _December 2013 - October 2017_ | **IT Security Audit and Compliance Officer @ SB
 - Contributed to GRC initiative execution
 - Developed early-stage expertise in cyber security, monitoring, incident management, and/or incident response, enhancing overall security measures
 
-> ⚡ **Skills:**
+> 🔎 **Skills:**
 > • GRC ( Governance, Risk, and Compliance ) • Risk Management Framework • Risk mitigation • Security regulations • security controls effectiveness • Decision-making • Incident Management • ISO2700x (ISMS) • NIST SP800-53 • Disaster recovery assistance
 
 
