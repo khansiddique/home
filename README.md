@@ -1,10 +1,10 @@
 # Cybersecurity Engineer
 
 #### Technical Skills: 
-- 📌 **Cyber Security:** • Network Security • Comprehensive Software Security • Risk Analysis |
-- 🔭 **Security Operations Center (SOC):** • Vulnerability Assessment • Incident Response  • Security Information And Event Management (SIEM) • Threat Hunting |
-- ☁️ **Cloud:** Public Cloud Security (AWS, Azure) |
-- 🖥️ **Programming Languages:** Python |
+- **📌 Cyber Security:** • Network Security • Comprehensive Software Security • Risk Analysis |
+- **🔭 Security Operations Center (SOC):** • Vulnerability Assessment • Incident Response  • Security Information And Event Management (SIEM) • Threat Hunting |
+- **☁️ Cloud:** Public Cloud Security (AWS, Azure) |
+- **🖥️ Programming Languages:** Python |
 
 
 
@@ -23,7 +23,7 @@ _August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, B
 - Used Jenkins for ALM tool codeBeamer integration
 - Assessed information security risks using ISO 27001
   
-> ⚡ **Skills:**
+> **⚡ Skills:**
 > • Penetration tests (Lab) • ISO 27001 • Risk and security Assessment • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • Cloud Security • DevOps • Jenkins • Python • Bash (Lab) • IT architectures & applications • MITER ATT&CK (Lab)
 
 
@@ -32,7 +32,7 @@ _August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, B
 - Developed signal analyzer for ROP attack
 - Conducted side-channel attacks to extract encryption keys
 
-> 🔑 **Skills:**
+> **🔑 Skills:**
 > • Signal Analysis • Cryptography • Assembly Language • IoT • SoC • MSP430 • Zero-day vulnerabilities • Reverse engineering • Python • C/C++
 
 
@@ -41,7 +41,7 @@ _February 2019 - January 2020_ | **Cyber Security Analyst (Student Job) @ Philot
 - Designed network traffic analysis concept and integrated alerts into SIEM solution
 - Conducted threat hunting, analyzed threats, performed digital forensics, and conducted malware analysis to fortify the security framework (Lab)
 
-> 🚀 **Skills:**
+> **🚀 Skills:**
 > • SOC and SIEM (Network monitoring, Security Onion, ELK) • Threat hunting • Packet analysis (Wireshark) • GRC • HackRF and GNU radio • Tenable Nessus • Nmap • Metasploit • Operating systems (Linux) • BRO/Zeek IDS IPS • Virtual Machine, Routing & Switching • Firewall (pfsense)
 
 
@@ -53,7 +53,7 @@ _December 2013 - October 2017_ | **IT Security Audit and Compliance Officer @ SB
 - Contributed to GRC initiative execution
 - Developed early-stage expertise in cyber security, monitoring, incident management, and/or incident response, enhancing overall security measures
 
-> 🔎 **Skills:**
+> **🔎 Skills:**
 > • GRC ( Governance, Risk, and Compliance ) • Risk Management Framework • Risk mitigation • Security regulations • security controls effectiveness • Decision-making • Incident Management • ISO2700x (ISMS) • NIST SP800-53 • Disaster recovery assistance
 
 
@@ -103,7 +103,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 1. Bielefeldt, Jens, Kai-Uwe Basener, Siddique Reza Khan, Mozhdeh Massah, Hans-Werner Wiesbrock, Stefan Scharoba, and Michael Hübner. "Einsatz von Deep Learning für den Test Eingebetteter Systeme." (2021). [View Details](https://dl.gi.de/items/99eebe5c-4de3-4eb0-a995-64965f98dbc1)
 2. Bielefeldt, Jens, Basener Kai-Uwe, Siddique Reza Khan, Mozhdeh Massah, Wiesbrock Hans-Werner, Stefan Scharoba, and Michael Hübner. "DeepTest: How Machine Learning Can Improve the Test of Embedded Systems." In 2021 10th Mediterranean Conference on Embedded Computing (MECO), pp. 1-6. IEEE, 2021. [View Details](https://ieeexplore.ieee.org/abstract/document/9460182?casa_token=fmdHALCgyGUAAAAA:icE4KxKSMU7WgOd-j_jmLazjkr0LjmNiR16mnAJoTOXHWS7rS3p5v7_UhxJMCskYAWQgVNFkM7Tr)
 3. Khan, Sadeque Reza, Arifa Ferdousi, and Siddique Reza Khan. "Real Time Generator Fuel level Measurement Meter Embedded with Ultrasound Sensor and Data Acquisition System." Journal of Automation and Control Engineering Vol 1.4 (2013). [View Details](https://d1wqtxts1xzle7.cloudfront.net/45442326/Real_Time_Generator_Fuel_level_Measureme20160508-30587-18ob0ao-libre.pdf?1462693011=&response-content-disposition=inline%3B+filename%3DReal_Time_Generator_Fuel_level_Measureme.pdf&Expires=1702809389&Signature=E3q1OID8U7qO7US7CLIRqewBYlFY6pn6vDSV2qwuo-jo7diKT0o0-Y5uGdq8cN8MG2WsOM53WZ-rpu~ACuYJrMuQBrI4gQJe7AC91iuxEl4AYpvobIsCxipEif6bSEVz993NBinfv5Xpg4G3q3ZIeWt3cHT0ZYB6x8lMBwhTCsMqCcmJBPbEGNNUCHDfCywZLqszPntZ7OLlh3CloLmIFUfjF45p7aFdi2ol4QIBsP93v7kSuAh9emYIOnkRYSgV6nLF7AKhPLvttCDwaMCxCnFf5DS~UM07zJ-~iu3I0t9iqV~w4Y8Z2WFyuyR8Ss9~uJ3Zq6tofVnHTcaYxK6KCQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
-4. Khan, Sadeque Reza, Siddique Reza Khan, and Arifa Ferdousi. "Voltage Temperature Monitoring System (VTMS) for a BTS Room." arXiv preprint arXiv:1212.4913 (2012). [View Details](https://arxiv.org/abs/1212.4913)
+4. Khan, Sadeque Reza, Siddique Reza Khan, and Arifa Ferdousi. "Voltage Temperature Monitoring System (VTMS) for a BTS Room." arXiv preprint arXiv:1212.4913 (2012). [View Details](https://arxiv.org/abs/1212.4913) |
 
 
 - 🏆 [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
