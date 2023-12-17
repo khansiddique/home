@@ -1,7 +1,10 @@
 # Cybersecurity Engineer
 
 #### Technical Skills: 
-Cyber Security • Vulnerability Assessment • Incident Response • Risk Analysis • Security Information And Event Management (SIEM) • Public Cloud Security (AWS, Azure) • Comprehensive Software Security • Threat Hunting • Python
+- Cyber Security • Network Security • Comprehensive Software Security • Risk Analysis |
+- Vulnerability Assessment • Incident Response  • Security Information And Event Management (SIEM) • Threat Hunting |
+- Public Cloud Security (AWS, Azure) |
+- Python
 
 ## Education
 - _September 2021_	| M.Sc., Cyber Security, BTU Cottbus-Senftenberg, Germany 						       		
