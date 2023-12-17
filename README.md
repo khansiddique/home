@@ -12,7 +12,7 @@
 
 
 ## Work Experience
-_August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, Berlin (_August 2020 - Present_)**
+_August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, Berlin**
 - Conducted penetration testing to identify vulnerabilities
 - Conducted security testing on database and API
 - Deployed secure Azure cloud solution for Machine Learning
@@ -22,21 +22,21 @@ _August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, B
 > ⚡ Skills:
 > • Penetration tests (Lab) • ISO 27001 • Risk and security Assessment • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • Cloud Security • DevOps • Jenkins • Python • Bash (Lab) • IT architectures & applications • MITER ATT&CK (Lab)
 
-**Cyber Security Analyst (Student Job) @ IHP Solutions GmbH, Frankfurt (Oder) (_January 2019 - September 2019_)**
+ _January 2019 - September 2020_ |**Cyber Security Analyst (Student Job) @ IHP Solutions GmbH, Frankfurt (Oder)**
 - Developed signal analyzer for ROP attack
 - Conducted side-channel attacks to extract encryption keys
 
 > ⚡ Skills:
 > • Signal Analysis • Cryptography • Assembly Language • IoT • SoC • MSP430 • Zero-day vulnerabilities • Reverse engineering • Python • C/C++
 
-**Cyber Security Analyst (Student Job) @ Philotech System Development GmbH, Cottbus (_February 2019 - January 2020_)**
+_February 2019 - January 2020_ | **Cyber Security Analyst (Student Job) @ Philotech System Development GmbH, Cottbus**
 - Designed network traffic analysis concept and integrated alerts into SIEM solution
 - Conducted threat hunting, analyzed threats, performed digital forensics, and conducted malware analysis to fortify the security framework (Lab)
 
 > ⚡ Skills:
 > • SOC and SIEM (Network monitoring, Security Onion, ELK) • Threat hunting • Packet analysis (Wireshark) • GRC • HackRF and GNU radio • Tenable Nessus • Nmap • Metasploit • Operating systems (Linux) • BRO/Zeek IDS IPS • Virtual Machine, Routing & Switching • Firewall (pfsense)
 
-**IT Security Audit and Compliance Officer @ SBAC Bank Ltd and Southeast Bank Ltd, Dhaka, Bangladesh (_December 2013 - October 2017_)**
+_December 2013 - October 2017_ | **IT Security Audit and Compliance Officer @ SBAC Bank Ltd and Southeast Bank Ltd, Dhaka, Bangladesh**
 - Assisted in developing and executing governance strategies for compliance
 - Conducted risk assessments and managed partner risks
 - Implemented policies for regulatory compliance and smooth operations
