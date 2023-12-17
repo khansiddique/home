@@ -37,8 +37,11 @@
 > • SOC and SIEM (Network monitoring, Security Onion, ELK) • Threat hunting • Packet analysis (Wireshark) • GRC • HackRF and GNU radio • Tenable Nessus • Nmap • Metasploit • Operating systems (Linux) • BRO/Zeek IDS IPS • Virtual Machine, Routing & Switching • Firewall (pfsense)
 
 **IT Security Audit and Compliance Officer @ SBAC Bank Ltd and Southeast Bank Ltd, Dhaka, Bangladesh (_December 2013 - October 2017_)**
-- Designed network traffic analysis concept and integrated alerts into SIEM solution
-- Conducted threat hunting, analyzed threats, performed digital forensics, and conducted malware analysis to fortify the security framework (Lab)
+- Assisted in developing and executing governance strategies for compliance
+- Conducted risk assessments and managed partner risks
+- Implemented policies for regulatory compliance and smooth operations
+- Contributed to GRC initiative execution
+- Developed early-stage expertise in cyber security, monitoring, incident management, and/or incident response, enhancing overall security measures
 
 > ⚡ Skills:
 > • GRC ( Governance, Risk, and Compliance ) • Risk Management Framework • Risk mitigation • Security regulations • security controls effectiveness • Decision-making • Incident Management • ISO2700x (ISMS) • NIST SP800-53 • Disaster recovery assistance
@@ -60,7 +63,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Professional Certifications
 
-- _October 2023_ | CompTIA **Cybersecurity Analyst(CySa+)** - CompTIA Security Analytics Professional (**CSAP**) 
+- _October 2023_ | CompTIA **Cybersecurity Analyst(CySa+)** -  Certification level CompTIA Security Analytics Professional (**CSAP**) 
 - _March 2023_ | Certified Ethical Hacker **(CEH) Practical** - Certification level **CEH Master**   
 - _March 2023_ | Certified in Cybersecurity (**CC**) - From (ISC)² 
 -  _December 2022_ | CompTIA **Security+**  
