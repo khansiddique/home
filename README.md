@@ -88,6 +88,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Additional Trainings
+- Security Operations and the Defense Analyst - From The **Blue Team Academy** is a **Splunk** Education initiative (_December 2023_)
 - Certified Cloud Security Professional (**CCSP**) - From StationX (2023) 
 - **ISO 21434** Automotive Cybersecurity Standards - From Udemy (2023) 
 - Quick Guide to AppSec and the **OWASP Top 10** - From StationX (2023)
