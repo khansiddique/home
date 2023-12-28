@@ -64,10 +64,7 @@ _December 2013 - October 2017_ | **IT Security Audit and Compliance Officer @ SB
 
 Discover the intricacies and complications of modern cybersecurity through a comprehensive Security Operations Center (SOC) automation project. This insightful summary delves into the world of threat detection, analysis, and response by integrating cutting-edge tools and platforms like Wazuh, Shuffle, and TheHive. Learn how these sophisticated technologies orchestrate a seamless workflow within the SOC, ensuring efficient identification, analysis, and mitigation of potential security incidents. Dive into the realm of cybersecurity innovation and explore the power of integration in fortifying digital defenses against evolving threats
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-![SOC Automation Project](/assets/img/SOC_Lab_Diagram.png)
-
-![SOC Automation Project](/assets/img/SOC Lab Diagram.drawio.png)
+![SOC Automation Project](/assets/img/SOC_Lab_Diagram.png) 
 
 
 ## Professional Certifications
