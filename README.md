@@ -64,15 +64,7 @@ _December 2013 - October 2017_ | **IT Security Audit and Compliance Officer @ SB
 
 Discover the intricacies and complications of modern cybersecurity through a comprehensive Security Operations Center (SOC) automation project. This insightful summary delves into the world of threat detection, analysis, and response by integrating cutting-edge tools and platforms like Wazuh, Shuffle, and TheHive. Learn how these sophisticated technologies orchestrate a seamless workflow within the SOC, ensuring efficient identification, analysis, and mitigation of potential security incidents. Dive into the realm of cybersecurity innovation and explore the power of integration in fortifying digital defenses against evolving threats
 
-![SOC Automation Project](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/17bdbbc66c5924d99823be70e98832ed.png)
-
+![SOC Automation Project](/assets/img/SOC Lab Diagram.drawio.png)
 
 
 ## Professional Certifications
