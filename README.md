@@ -66,6 +66,12 @@ Discover the intricacies and complications of modern cybersecurity through a com
 
 ![SOC Automation Project](/assets/img/SOC_Lab_Diagram.png) 
 
+### Governance, Risk, Compliance (GRC) - Cyber Resilience Initiative
+[Publication](https://medium.com/@weexplore2learn/enhancing-cybersecurity-maturity-a-comprehensive-grc-analysis-and-nist-csf-implementation-at-9037658a69ef)
+
+Commencing a major project at GoodCorp (a dummy organization), I led the Cyber Resilience Initiative, using it as a model for compliance audit data. We seamlessly integrated a Comprehensive Governance, Risk Management, and Compliance (GRC) Analysis with the strategic implementation of the NIST Cybersecurity Framework (CSF). Leveraging the NIST CSF Maturity Tool v2.1, we conducted a meticulous Cyber Risk & Maturity Assessment, providing strategic insights to bolster defenses and mitigate risks. The GRC framework, aligned with NIST-800-53, BS7799, ISO27001, Cobit 5, and ISA 62443 standards, ensured optimal resource utilization and effectiveness. The implementation of ISO 27001 principles and a comprehensive ISMS, coupled with continuous improvement through internal audits, fostered a cybersecurity-aware culture at GoodCorp. The Cyber Resilience Initiative, anchored by the use of the Compliance Audit Data file, not only fortified cybersecurity defenses but also positioned GoodCorp as a proactive player in the ever-evolving landscape.
+
+![Governance, Risk, Compliance (GRC) Lab](/assets/img/SOC_Lab_Diagram.png)
 
 ## Professional Certifications
 
