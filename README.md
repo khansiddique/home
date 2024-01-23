@@ -78,7 +78,7 @@ Commencing a major project at GoodCorp (a dummy organization), I led the Cyber R
 
 In this comprehensive research project, I spearheaded the development of a robust security framework for Hospital Information Systems (HIS) and Hospital Management Systems (HMS) to counter evolving threats in healthcare. By integrating advanced technologies like 5G communication and medical device simulations, the framework ensures the confidentiality and integrity of sensitive medical data. The project covers diverse aspects, including threat modeling using the STRIDE framework, simulation of medical devices via Docker containers and the DICOM protocol, web application development with Flask, and advanced custom networking in Docker. Additionally, I implemented preventive measures such as network segmentation, encryption, and continuous monitoring, alongside remediation strategies like container isolation and timely updates. The paper concludes by emphasizing the significance of a comprehensive security approach in the dynamic landscape of healthcare technology, providing recommendations for enhancing data security and resilience in 5G-enabled medical networks. 
 
-![MedCS5_workflow_SSL drawio (1) (1)](https://github.com/khansiddique/home/assets/44813868/e7f4c2e3-4181-430d-a4c8-72a271ea66a9)
+![MedCS5_workflow_SSL drawio](/assets/img/MedCS5_workflow_SSL.drawio.png)
 
 
 ## Professional Certifications
