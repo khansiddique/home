@@ -80,6 +80,14 @@ In this comprehensive research project, I spearheaded the development of a robus
 
 ![MedCS5_workflow_SSL drawio](/assets/img/MedCS5_workflow_SSL.drawio.png)
 
+### Nessus: Vulnerability Management and Assessment
+[Publication](https://medium.com/@weexplore2learn/enhancing-cybersecurity-through-comprehensive-vulnerability-assessment-and-remediation-strategies-920c9d823e44)
+- Deployed and configured Nessus Essentials for executing credentialed vulnerability scans targeting Windows 10 Hosts, enhancing the cybersecurity posture of the system.
+- Established a comprehensive Vulnerability Management Function within sandbox networks, encompassing the key stages of discovery, prioritization, assessment, reporting, remediation, and verification.
+- Executed meticulous vulnerability assessments using Nessus, proactively identifying and addressing security weaknesses within the system.
+- Formulated and implemented an automated remediation process, preemptively addressing vulnerabilities arising from both Windows updates and third-party software, enhancing the overall resilience and security of the network infrastructure.
+
+These advancements exemplify a holistic approach to vulnerability management, integrating cutting-edge tools and methodologies to fortify cybersecurity measures within the project.
 
 ## Professional Certifications
 
