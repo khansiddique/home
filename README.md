@@ -106,7 +106,7 @@ These advancements exemplify a holistic approach to vulnerability management, in
 - Certified Cloud Security Professional (**CCSP**) - From StationX (2023) 
 - **ISO 21434** Automotive Cybersecurity Standards - From Udemy (2023) 
 - Quick Guide to AppSec and the **OWASP Top 10** - From StationX (2023)
-- Information Security Awareness (NSE1) - From Fortinet Network Security Expert (NSE) Certification(2022)
+- Information Security Awareness (NSE1) - From **Fortinet Network** Security Expert (NSE) Certification(2022)
 - **AWS** Certified Cloud Practitioner - From StationX (2022)
 - AWS **Machine Learning** Foundations - From Udacity (2022) 
 - Introduction to **Malware Analysis** for **Incident Responders** - From StationX (2021)
