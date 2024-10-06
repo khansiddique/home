@@ -16,7 +16,19 @@
 
 ## Work Experience
 
-_August 2020 - Present_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, Berlin**
+_September 2024 - Present_ | **IT security analyst @ ZV DIKOM Brandenburg, Cottbus**
+- Monitoring security incidents and analyzing security alerts
+- Detect and respond to potential security breaches and cyberattacks
+- Developing proposals to improve IT security and implementing security policies and procedures
+- Carrying out penetration tests and vulnerability analyses
+- Central orchestration of updates and patches
+- Hardening of systems and configurations
+  
+> **⚡ Skills:**
+> • Penetration tests (Lab) • ISO 27001 • Risk and security Assessment • DFIR • Threat Hunting • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • WAF • XDR • SIEM • NDR • EDR • IT architectures & applications • MITER ATT&CK 
+
+
+_August 2020 - August 2024_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, Berlin**
 - Conducted penetration testing to identify vulnerabilities
 - Conducted security testing on database and API
 - Deployed secure Azure cloud solution for Machine Learning
