@@ -134,5 +134,7 @@ These advancements exemplify a holistic approach to vulnerability management, in
 
 
 - 🏆 [Cyber Security YouTube](https://www.youtube.com/channel/UCZ39vC9u72_8X5LHB647aSQ)
-- 📕 [Cyber Security Blog](https://medium.com/@weexplore2learn)
+- 📕 [Medium : Cyber Security Blog](https://medium.com/@weexplore2learn)
+- 🌐 [Website : Cyber Security Projects](https://tsolglobal.com/projects/projects-on-cyber-security/)
+- 📢 [Website : Cyber Security Tips & Tricks](https://tsolglobal.com/projects/projects-on-cyber-security/tips-tricks/)
 
