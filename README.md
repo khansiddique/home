@@ -25,7 +25,7 @@ _September 2024 - Present_ | **IT security analyst @ ZV DIKOM Brandenburg, Cottb
 - Hardening of systems and configurations
   
 > **⚡ Skills:**
-> • Penetration tests (Lab) • ISO 27001 • Risk and security Assessment • DFIR • Threat Hunting • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • WAF • XDR • SIEM • NDR • EDR • IT architectures & applications • MITER ATT&CK 
+> • Penetration tests (PoC) • ISO 27001 • Risk and security Assessment • DFIR • Threat Hunting • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • WAF • XDR • SIEM • NDR • EDR • IT architectures & applications • MITER ATT&CK 
 
 
 _August 2020 - August 2024_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, Berlin**
@@ -36,7 +36,7 @@ _August 2020 - August 2024_ | **Cybersecurity Specialist @ ITPower Solutions Gmb
 - Assessed information security risks using ISO 27001
   
 > **⚡ Skills:**
-> • Penetration tests (Lab) • ISO 27001 • Risk and security Assessment • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • Cloud Security • DevOps • Jenkins • Python • Bash (Lab) • IT architectures & applications • MITER ATT&CK (Lab)
+> • Penetration tests (PoC) • ISO 27001 • Risk and security Assessment • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • Cloud Security • DevOps • Jenkins • Python • Bash (Lab) • IT architectures & applications • MITER ATT&CK (Lab)
 
 
 
@@ -51,7 +51,7 @@ _August 2020 - August 2024_ | **Cybersecurity Specialist @ ITPower Solutions Gmb
 
 _February 2019 - January 2020_ | **Cyber Security Analyst (Student Job) @ Philotech System Development GmbH, Cottbus**
 - Designed network traffic analysis concept and integrated alerts into SIEM solution
-- Conducted threat hunting, analyzed threats, performed digital forensics, and conducted malware analysis to fortify the security framework (Lab)
+- Conducted threat hunting, analyzed threats, performed digital forensics, and conducted malware analysis to fortify the security framework (PoC)
 
 > **🚀 Skills:**
 > • SOC and SIEM (Network monitoring, Security Onion, ELK) • Threat hunting • Packet analysis (Wireshark) • GRC • HackRF and GNU radio • Tenable Nessus • Nmap • Metasploit • Operating systems (Linux) • BRO/Zeek IDS IPS • Virtual Machine, Routing & Switching • Firewall (pfsense)
