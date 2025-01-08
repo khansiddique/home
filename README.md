@@ -16,7 +16,7 @@
 
 ## Work Experience
 
-_September 2024 - Present_ | **IT security analyst @ ZV DIKOM Brandenburg, Cottbus**
+_September 2024 - Present_ | **IT security analyst @ Center for Hybrid Electric Systems Cottbus (chesco), Cottbus**
 - Monitoring security incidents and analyzing security alerts
 - Detect and respond to potential security breaches and cyberattacks
 - Developing proposals to improve IT security and implementing security policies and procedures
