@@ -25,7 +25,7 @@ _September 2024 - Present_ | **IT security analyst @ Center for Hybrid Electric 
 - Hardening of systems and configurations
   
 > **⚡ Skills:**
-> • Penetration tests (PoC) • ISO 27001 • Risk and security Assessment • DFIR • Threat Hunting • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • WAF • XDR • SIEM • NDR • EDR • IT architectures & applications • MITER ATT&CK 
+> • Penetration tests (PoC) • ISO 27001 • Risk and security Assessment • DFIR • Threat Hunting • Threats identification, vulnerabilities and exploits • Application Security • Web Security • Network Security • WAF • XDR • SIEM • NDR • EDR • IT architectures & applications • MITER ATT&CK • OT/ICS • IEC 62443
 
 
 _August 2020 - August 2024_ | **Cybersecurity Specialist @ ITPower Solutions GmbH, Berlin**
